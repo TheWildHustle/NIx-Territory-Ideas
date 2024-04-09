@@ -1,0 +1,28 @@
+Title: NixOS Flake Competition - Unleash Your Creativity and Win Big Prizes in SATS!
+
+Objective: To organize a thrilling NixOS Flake competition that encourages participants to showcase their skills, innovate, and compete for attractive prizes denominated in SATS.
+
+Prize Pool:
+
+Grand Prize: The winner of the competition will receive a grand total of 10,000 SATS.
+Runner-Up Prizes: The second and third place finishers will receive 6,000 SATS and 4,000 SATS respectively.
+Honorable Mention Rewards: In addition to the main prizes, there will be honorable mention awards for outstanding achievements in specific categories. These recipients will earn 2,000 SATS each.
+Rules and Guidelines:
+
+Eligibility: All members of the NixOS community are eligible to participate in the competition. However, employees of NixOS or any affiliated organizations are not allowed to enter.
+Entry Format: Participants must submit their Flake(s) as a pull request to the official NixOS repository. Each entry should include clear documentation, test cases, and installation instructions.
+Judging Criteria: Entries will be evaluated based on several factors, including originality, functionality, scalability, maintainability, and overall quality. The judges reserve the right to adjust these criteria as needed during the evaluation process.
+Timeline: The competition will run for six weeks, starting from [Date]. During this period, participants can submit multiple Flakes if they wish.
+Final Decision: The winners will be determined by a combination of public votes and expert evaluations. Both aspects carry equal weight in determining the final results.
+How to Enter:
+
+Fork the Official Repository: Visit the NixOS GitHub page and fork the repository to begin working on your Flake(s). Make sure you adhere to the project's coding standards and best practices throughout the development process.
+Create a Pull Request: Once your Flake is complete, create a pull request on the NixOS repository. Be sure to follow the proper formatting guidelines when submitting your code.
+Promote Your Work: Encourage friends, colleagues, and other community members to view and vote for your Flake(s). Sharing your work on social media platforms like Twitter, Reddit, or Hacker News may also increase visibility and attract additional supporters.
+Important Dates:
+
+Registration Deadline: Interested participants must register their intent to participate in the competition by [Registration Deadline]. Late registrations will not be accepted under any circumstances.
+Submission Deadline: All Flake entries must be submitted via pull requests no later than [Submission Deadline]. Any late submissions will be disqualified.
+Voting Period: Public voting will take place between [Voting Start] and [Voting End]. During this time, registered voters can cast their ballots for their favorite Flakes.
+Winner Announcement: The winners will be revealed and contacted directly via email shortly after the voting period ends. Their names, along with the winning Flakes, will also be published on the NixOS website and various social media channels.
+By participating in this exciting NixOS Flake competition, you have the opportunity to showcase your talents, contribute valuable tools and resources to the community, and potentially win big rewards in SATS! Let the games begin!
